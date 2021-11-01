@@ -7,9 +7,13 @@
     <title></title>
     <link href="Hebraw.css" rel="stylesheet" />
     <link href="Hourtable.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
 </head>
 <body>
-    <table>
+    <h1 class="center">מערכת שעות - שגיא קושניר</h1>
+    <table class="center">
         <tr>
             <th></th>
             <th>א</th>

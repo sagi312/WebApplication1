@@ -1,6 +1,36 @@
 ﻿body {
+    background-color: #FEF5ED;
+    font-family: 'Varela Round', sans-serif;
 }
 
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 .math {
-    background-color: red;
+    background-color: #FFE1AF;
+}
+
+.theatre, .movement {
+    background-color: #D57E7E;
+}
+
+.cs, .internet {
+    background-color: #A2CDCD;
+}
+
+table, th, td{
+    border: 1px solid black;
+    text-align:center;
+    padding:5px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #C6D57E;
+    color: black;
 }
