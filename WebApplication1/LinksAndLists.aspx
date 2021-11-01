@@ -6,6 +6,7 @@
 <head runat="server" lang="he">
     <title>Sagi's Website</title>
     <link href="Hebraw.css" rel="stylesheet" />
+    <link href="Background.css" rel="stylesheet" />
 </head>
 <body>
     <h1 style="color:red">מחלקות בעלי חיים</h1>

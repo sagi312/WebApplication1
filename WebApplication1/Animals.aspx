@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Sagi's Website</title>
+    <link href="Background.css" rel="stylesheet" />
 </head>
 <body>
     <h1>Animals</h1>
@@ -30,7 +31,6 @@
     <h2>Dog</h2>
     <img src="pics/107px-Blue_merle_koolie_short_coat_heading_sheep.jpg" width="100""/>
     <p>The dog or domestic dog (Canis familiaris)[4] is a domesticated descendant of the wolf, characterized by an upturning tail. The dog derived from an ancient, extinct wolf,[5][6] and the modern grey wolf is the dog's nearest living relative.[7] The dog was the first species to be domesticated,[8][7] by hunter–gatherers over 15,000 years ago,[6] before the development of agriculture.[1]</p>
-    <br />
     <a href="Home.aspx">Back</a>
 </body>
 </html>

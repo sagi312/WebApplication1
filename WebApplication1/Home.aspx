@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Sagi's Website</title>
+    <link href="Background.css" rel="stylesheet" />
 </head>
 <body>
     <h1>Computer Science Project by Sagi</h1>
@@ -12,6 +13,7 @@
     <ul>
         <li><a href="Animals.aspx">Animals</a></li>
         <li><a href="LinksAndLists.aspx">Links and Lists</a></li>
+        <li><a href="Hourtable.aspx">Hourtable</a></li>
     </ul>
 </body>
 </html>

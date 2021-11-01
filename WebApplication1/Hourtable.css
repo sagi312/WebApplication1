@@ -1,6 +1,4 @@
 ﻿body {
-    background-color: #FEF5ED;
-    font-family: 'Varela Round', sans-serif;
 }
 
 .center {
@@ -8,6 +6,7 @@
     margin-left: auto;
     margin-right: auto;
 }
+
 .math {
     background-color: #FFE1AF;
 }
@@ -18,6 +17,10 @@
 
 .cs, .internet {
     background-color: #A2CDCD;
+}
+
+.clear {
+    background-color: #f5eee9;
 }
 
 table, th, td{

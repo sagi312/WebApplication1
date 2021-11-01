@@ -7,6 +7,7 @@
     <title></title>
     <link href="Hebraw.css" rel="stylesheet" />
     <link href="Hourtable.css" rel="stylesheet" />
+    <link href="Background.css" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
@@ -36,7 +37,7 @@
         <tr>
             <th>3</th>
             <td class="sport">ספורט</td>
-            <td></td>
+            <td class="clear"></td>
             <td rowspan="2" class="hebraw">לשון</td>
             <td rowspan="2" class="english">אנגלית</td>
             <td rowspan="2" class="hebraw">לשון</td>
@@ -62,19 +63,19 @@
             <th>7</th>
             <td class="math">מתמטיקה</td>
             <td class="sport">ספורט</td>
-            <td rowspan="5"></td>
+            <td rowspan="5" class="clear"></td>
         </tr>
         <tr>
             <th>8</th>
-            <td rowspan="2"></td>
+            <td rowspan="2" class="clear"></td>
             <td class="english">אנגלית</td>
             <td class="homeroom">חנוך</td>
-            <td></td>
+            <td class="clear"></td>
         </tr>
         <tr>
             <th>9</th>
-            <td></td>
-            <td rowspan="3"></td>
+            <td class="clear"></td>
+            <td rowspan="3" class="clear"></td>
             <td rowspan="3" class="theater">תיאטרון</td>
         </tr>
         <tr>
@@ -86,5 +87,7 @@
             <th>11</th>
         </tr>
     </table>
+    <br />
+    <a href="Home.aspx">חזרה</a>
 </body>
 </html>
