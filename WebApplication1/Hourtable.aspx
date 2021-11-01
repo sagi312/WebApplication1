@@ -1,0 +1,86 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Hourtable.aspx.cs" Inherits="WebApplication1.Hourtable" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Hebraw.css" rel="stylesheet" />
+    <link href="Hourtable.css" rel="stylesheet" />
+</head>
+<body>
+    <table>
+        <tr>
+            <th></th>
+            <th>א</th>
+            <th>ב</th>
+            <th>ג</th>
+            <th>ד</th>
+            <th>ה</th>
+        </tr>
+        <tr>
+            <th>1</th>
+            <td rowspan="2" class="tanach">תנ"ך</td>
+            <td rowspan="2" class="math">מתמטיקה</td>
+            <td rowspan="2" class="lit">ספרות</td>
+            <td rowspan="2" class="math">מתמטיקה</td>
+            <td rowspan="2" class="english">אנגלית</td>
+        </tr>
+        <tr>
+            <th>2</th>
+        </tr>
+        <tr>
+            <th>3</th>
+            <td class="sport">ספורט</td>
+            <td></td>
+            <td rowspan="2" class="hebraw">לשון</td>
+            <td rowspan="2" class="english">אנגלית</td>
+            <td rowspan="2" class="hebraw">לשון</td>
+        </tr>
+        <tr>
+            <th>4</th>
+            <td class="homeroom">חינוך</td>
+            <td rowspan="2" class="movement">תנועה</td>
+        </tr>
+        <tr>
+            <th>5</th>
+            <td rowspan="2" class="internet">אינטרנט</td>
+            <td rowspan="2" class="cs">מדעי המחשב</td>
+            <td class="history">היסטוריה</td>
+            <td rowspan="2" class="math">מתמטיקה</td>
+        </tr>
+        <tr>
+            <th>6</th>
+            <td rowspan="2" class="history">היסטוריה</td>
+            <td rowspan="2" class="theatre">תיאטרון</td>
+        </tr>
+        <tr>
+            <th>7</th>
+            <td class="math">מתמטיקה</td>
+            <td class="sport">ספורט</td>
+            <td rowspan="5"></td>
+        </tr>
+        <tr>
+            <th>8</th>
+            <td rowspan="2"></td>
+            <td class="english">אנגלית</td>
+            <td class="homeroom">חנוך</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>9</th>
+            <td></td>
+            <td rowspan="3"></td>
+            <td rowspan="3" class="theater">תיאטרון</td>
+        </tr>
+        <tr>
+            <th>10</th>
+            <td rowspan="2" class="theater">תיאטרון</td>
+            <td rowspan="2" class="literature">ספרות</td>
+        </tr>
+        <tr>
+            <th>11</th>
+        </tr>
+    </table>
+</body>
+</html>
