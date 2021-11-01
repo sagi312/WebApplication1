@@ -69,7 +69,7 @@
             <th>8</th>
             <td rowspan="2" class="clear"></td>
             <td class="english">אנגלית</td>
-            <td class="homeroom">חנוך</td>
+            <td class="homeroom">חינוך</td>
             <td class="clear"></td>
         </tr>
         <tr>
