@@ -14,6 +14,7 @@
         <li><a href="Animals.aspx">Animals</a></li>
         <li><a href="LinksAndLists.aspx">Links and Lists</a></li>
         <li><a href="Hourtable.aspx">Hourtable</a></li>
+        <li><a href="SignUp.aspx">Sign Up</a></li>
     </ul>
 </body>
 </html>

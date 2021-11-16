@@ -40,5 +40,8 @@
         <label for="burger"><b>Burger: </b></label><input type="checkbox" id="burger" name="burger" value="Burger" /><br />
         <input type="submit" />
     </form>
+    <br />
+    <br />
+    <a href="Home.aspx">Return</a>
 </body>
 </html>
